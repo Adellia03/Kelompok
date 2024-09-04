@@ -1,0 +1,18 @@
+public class Latihan23 {
+
+    public static void main(String[] args) {
+
+        System.out.println("---------------------------------------------------------");
+        System.out.println("-- Data Mahasiswa Jurusan Teknologi Informasi POLINEMA --");
+        System.out.println("---------------------------------------------------------");
+        System.out.println("Nama     : Siti Nikmatus Sholihah");
+        System.out.println("NIM      : 244107020014");
+        System.out.println("Kelas    : 1B");
+        System.out.println("No Absen : 23");
+        System.out.println("Prodi    : Teknik Informatika");
+        System.out.println("Alamat   : Desa Balearjo rt:14 rw:02 Kec. Pagelaran");
+        System.out.println("No HP    : 082331773806");
+        System.out.println("Hobby    : Memasak");
+
+    }
+}
